@@ -1,2 +1,3 @@
 # git-practice
 -브랜치에서 수정한 내용
+mac test
